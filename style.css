@@ -103,7 +103,7 @@ li button:hover {
     background-color: #c2185b;
 }
 
-
+/* Responsive Small Screens */
 @media (max-width: 600px) {
     .todo-container {
         padding: 20px;
