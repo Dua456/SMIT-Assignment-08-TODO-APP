@@ -33,5 +33,4 @@ Click here to view the app:
 ### 📌 Author
 
 - **Name:** Dua Shakir Hussain
-- 
 ---
